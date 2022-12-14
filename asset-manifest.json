@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/github.com/my-weather-app/static/css/main.406a6cd3.css",
-    "main.js": "/github.com/my-weather-app/static/js/main.33f3c21e.js",
-    "static/media/Cloud-background.png": "/github.com/my-weather-app/static/media/Cloud-background.f88244c26c2492e3c5f1.png",
-    "index.html": "/github.com/my-weather-app/index.html",
-    "main.406a6cd3.css.map": "/github.com/my-weather-app/static/css/main.406a6cd3.css.map",
-    "main.33f3c21e.js.map": "/github.com/my-weather-app/static/js/main.33f3c21e.js.map"
+    "main.css": "/github.com/my-weather-app/public/static/css/main.4e1f4868.css",
+    "main.js": "/github.com/my-weather-app/public/static/js/main.33f3c21e.js",
+    "static/media/Cloud-background.png": "/github.com/my-weather-app/public/static/media/Cloud-background.f88244c26c2492e3c5f1.png",
+    "index.html": "/github.com/my-weather-app/public/index.html",
+    "main.4e1f4868.css.map": "/github.com/my-weather-app/public/static/css/main.4e1f4868.css.map",
+    "main.33f3c21e.js.map": "/github.com/my-weather-app/public/static/js/main.33f3c21e.js.map"
   },
   "entrypoints": [
-    "static/css/main.406a6cd3.css",
+    "static/css/main.4e1f4868.css",
     "static/js/main.33f3c21e.js"
   ]
 }
